@@ -33,6 +33,9 @@ Each problem is solved using techniques like **backtracking** and **constraint p
 - Displays solved grid using matplotlib
 
 ---
+
+### 4. Cryptarithmetic Puzzle Solver
+- Solves puzzles like:
 - Each letter represents a unique digit.
 - No leading zeros allowed.
 -  Output:
@@ -80,6 +83,3 @@ Each problem is solved using techniques like **backtracking** and **constraint p
 - Cryptarithmetic (SEND + MORE = MONEY)
 
 ---
-
-### 4. Cryptarithmetic Puzzle Solver
-- Solves puzzles like:
